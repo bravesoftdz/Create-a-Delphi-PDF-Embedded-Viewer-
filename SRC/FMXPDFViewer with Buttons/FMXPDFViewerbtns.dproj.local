@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/10/27 11:18:24.000.833,=C:\Users\GregB\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2017/10/27 18:33:06.000.389,=C:\Users\GregB\Documents\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2017/10/27 18:36:36.000.823,C:\Users\GregB\Documents\Embarcadero\Studio\Projects\Unit5.pas=E:\ApplicationNewDevelopment\Test Development\Dashboardchartjs\dashboard.pas</Transaction>
+    <Transaction>2017/10/27 18:36:49.000.051,C:\Users\GregB\Documents\Embarcadero\Studio\Projects\Unit4.fmx=E:\ApplicationNewDevelopment\Test Development\Dashboardchartjs\main.fmx</Transaction>
+    <Transaction>2017/10/27 18:36:49.000.051,C:\Users\GregB\Documents\Embarcadero\Studio\Projects\Unit4.pas=E:\ApplicationNewDevelopment\Test Development\Dashboardchartjs\main.pas</Transaction>
+    <Transaction>2017/10/27 18:37:16.000.854,C:\Users\GregB\Documents\Embarcadero\Studio\Projects\Project2.dproj=E:\ApplicationNewDevelopment\Test Development\Dashboardchartjs\dashboardchartjs.dproj</Transaction>
+    <Transaction>2017/10/27 18:58:24.000.396,E:\ApplicationNewDevelopment\Test Development\Dashboardchartjs\dashboardchartjs.dproj=E:\ApplicationNewDevelopment\Test Development\Dashboardchartjs\dashboardchartjs.dproj</Transaction>
+    <Transaction>2017/10/29 15:09:20.000.712,=E:\ApplicationNewDevelopment\Test Development\Dashboardchartjs\index.php</Transaction>
+    <Transaction>2017/10/29 15:10:07.000.499,=E:\ApplicationNewDevelopment\Test Development\Dashboardchartjs\index.html</Transaction>
+    <Transaction>2017/10/29 16:01:28.000.493,E:\ApplicationNewDevelopment\Test Development\Dashboardchartjs\dashboardchartjs.dproj=E:\ApplicationNewDevelopment\Test Development\Dashboardchartjs\dashboardchartjs.dproj</Transaction>
+    <Transaction>2017/10/29 16:02:45.000.558,E:\ApplicationNewDevelopment\Test Development\Dashboardchartjs\dashboardchartjs.dproj=E:\ApplicationNewDevelopment\Test Development\Dashboardchartjs\dashboardchartjs.dproj</Transaction>
+    <Transaction>2017/10/29 17:53:18.000.582,E:\ApplicationNewDevelopment\Test Development\Dashboardchartjs\dashboardchartjs.dproj=E:\ApplicationNewDevelopment\Test Development\Dashboardchartjs\dashboardchartjs.dproj</Transaction>
+    <Transaction>2017/10/30 16:36:26.000.922,E:\ApplicationNewDevelopment\Test Development\Dashboardchartjs\dashboardchartjs.dproj=E:\ApplicationNewDevelopment\Test Development\Dashboardchartjs\dashboardchartjs.dproj</Transaction>
+    <Transaction>2017/10/31 12:18:39.000.945,E:\ApplicationNewDevelopment\Test Development\Dashboardchartjs\dashboardchartjs.dproj=E:\ApplicationNewDevelopment\Test Development\Dashboardchartjs\dashboardchartjs.dproj</Transaction>
+    <Transaction>2017/10/31 13:37:49.000.145,E:\ApplicationNewDevelopment\Test Development\Dashboardchartjs\index.html=E:\ApplicationNewDevelopment\Test Development\Dashboardchartjs\indexnew.html</Transaction>
+    <Transaction>2017/10/31 13:38:04.000.429,=E:\ApplicationNewDevelopment\Test Development\Dashboardchartjs\index.html</Transaction>
+    <Transaction>2017/10/31 14:10:02.000.354,E:\ApplicationNewDevelopment\Test Development\Dashboardchartjs\dashboardchartjs.dproj=E:\ApplicationNewDevelopment\Test Development\Dashboardchartjs\dashboardchartjs.dproj</Transaction>
+    <Transaction>2017/12/06 17:40:44.000.119,E:\AppEarlyDev\Dashboardchartjs\dashboardchartjs.dproj=E:\AppEarlyDev\Dashboardchartjs\dashboardchartjs.dproj</Transaction>
+    <Transaction>2017/12/06 18:02:44.000.504,E:\AppEarlyDev\Dashboardchartjs\dashboardchartjs.dproj=E:\AppEarlyDev\Dashboardchartjs\dashboardchartjs.dproj</Transaction>
+    <Transaction>2017/12/06 18:03:31.000.629,E:\AppEarlyDev\Dashboardchartjs\dashboardchartjs.dproj=E:\AppEarlyDev\Dashboardchartjs\dashboardchartjs.dproj</Transaction>
+    <Transaction>2017/12/06 18:04:50.000.119,E:\AppEarlyDev\Dashboardchartjs\dashboardchartjs.dproj=E:\AppEarlyDev\Dashboardchartjs\dashboardchartjs.dproj</Transaction>
+    <Transaction>2018/01/06 19:46:38.000.468,E:\AppEarlyDev\FMXDashboard(chartjs)\dashboardchartjs.dproj=E:\AppEarlyDev\FMXDashboard(chartjs)\dashboardchartjs.dproj</Transaction>
+    <Transaction>2018/01/06 20:07:16.000.569,E:\AppEarlyDev\FMXDashboard(chartjs)\dashboardchartjs.dproj=E:\AppEarlyDev\FMXDashboard(chartjs)\dashboardchartjs.dproj</Transaction>
+    <Transaction>2018/01/12 09:06:04.000.073,E:\AppEarlyDev\FMXPDFViewer\indexnew.html=</Transaction>
+    <Transaction>2018/01/12 09:06:04.000.025,E:\AppEarlyDev\FMXPDFViewer\index.html=</Transaction>
+    <Transaction>2018/01/12 09:06:37.000.158,=E:\AppEarlyDev\FMXPDFViewer\pdf.js\viewer.html</Transaction>
+    <Transaction>2018/01/12 09:21:03.000.072,E:\AppEarlyDev\FMXPDFViewer\FMXPDFViewer.dproj=E:\AppEarlyDev\FMXPDFViewer\dashboardchartjs.dproj</Transaction>
+    <Transaction>2018/01/12 09:21:17.000.867,E:\AppEarlyDev\FMXPDFViewer\PDFview.pas=E:\AppEarlyDev\FMXPDFViewer\dashboard.pas</Transaction>
+    <Transaction>2018/01/12 13:38:04.000.726,E:\AppEarlyDev\FMXPDFViewer\FMXPDFViewer.dproj=E:\AppEarlyDev\FMXPDFViewer\FMXPDFViewer.dproj</Transaction>
+    <Transaction>2018/01/16 09:46:56.000.764,E:\AppEarlyDev\FMXPDFViewer\FMXPDFViewer.dproj=E:\AppEarlyDev\FMXPDFViewer\FMXPDFViewer.dproj</Transaction>
+    <Transaction>2018/01/16 10:04:17.000.967,E:\AppEarlyDev\FMXPDFViewer\FMXPDFViewer.dproj=E:\AppEarlyDev\FMXPDFViewer\FMXPDFViewer.dproj</Transaction>
+    <Transaction>2018/01/16 10:05:52.000.322,E:\AppEarlyDev\FMXPDFViewer\FMXPDFViewer.dproj=E:\AppEarlyDev\FMXPDFViewer\FMXPDFViewer.dproj</Transaction>
+    <Transaction>2018/01/16 11:42:31.000.563,E:\AppEarlyDev\FMXPDFViewer\FMXPDFViewer.dproj=E:\AppEarlyDev\FMXPDFViewer\FMXPDFViewer.dproj</Transaction>
+    <Transaction>2018/01/18 15:13:07.000.231,E:\AppEarlyDev\FMXPDFViewer\FMXPDFViewer.dproj=E:\AppEarlyDev\FMXPDFViewer\FMXPDFViewer.dproj</Transaction>
+    <Transaction>2018/01/28 15:36:59.000.102,E:\AppEarlyDev\FMXPDFViewer\FMXPDFViewer.dproj=E:\AppEarlyDev\FMXPDFViewer\FMXPDFViewer.dproj</Transaction>
+    <Transaction>2018/01/28 21:42:49.000.901,E:\AppEarlyDev\FMXPDFViewer\pdf.js\viewer.html=</Transaction>
+    <Transaction>2018/01/28 21:43:11.000.280,=E:\AppEarlyDev\FMXPDFViewer\binarypdf\PDFjsindex.html</Transaction>
+    <Transaction>2018/01/28 22:11:26.000.919,E:\AppEarlyDev\FMXPDFViewer\FMXPDFViewer.dproj=E:\AppEarlyDev\FMXPDFViewer\FMXPDFViewer.dproj</Transaction>
+    <Transaction>2018/01/29 13:42:56.000.269,=E:\AppEarlyDev\FMXPDFViewer\Unit1.pas</Transaction>
+    <Transaction>2018/01/29 13:43:13.000.059,E:\AppEarlyDev\FMXPDFViewer\Code64.pas=E:\AppEarlyDev\FMXPDFViewer\Unit1.pas</Transaction>
+    <Transaction>2018/01/29 17:40:00.000.869,E:\AppEarlyDev\FMXPDFViewer\FMXPDFViewer.dproj=E:\AppEarlyDev\FMXPDFViewer\FMXPDFViewer.dproj</Transaction>
+    <Transaction>2018/01/29 17:55:39.000.900,E:\AppEarlyDev\FMXPDFViewer\Code64.pas=</Transaction>
+    <Transaction>2018/01/29 17:59:21.000.902,E:\AppEarlyDev\FMXPDFViewer\FMXPDFViewer.dproj=E:\AppEarlyDev\FMXPDFViewer\FMXPDFViewer.dproj</Transaction>
+    <Transaction>2018/02/01 23:31:32.000.199,E:\AppEarlyDev\FMXPDFViewer\FMXPDFViewer.dproj=E:\AppEarlyDev\FMXPDFViewer\FMXPDFViewer.dproj</Transaction>
+    <Transaction>2018/02/02 12:18:02.000.993,E:\AppEarlyDev\FMXPDFViewer\FMXPDFViewer.dproj=E:\AppEarlyDev\FMXPDFViewer\FMXPDFViewer.dproj</Transaction>
+    <Transaction>2018/02/02 13:28:43.000.318,E:\AppEarlyDev\FMXPDFViewer\FMXPDFViewer.dproj=E:\AppEarlyDev\FMXPDFViewer\FMXPDFViewer.dproj</Transaction>
+    <Transaction>2018/02/05 16:51:57.000.184,=E:\AppEarlyDev\FMXPDFViewer\binarypdf\pdf.js</Transaction>
+    <Transaction>2018/02/26 17:19:11.000.855,E:\AppEarlyDev\FMXPDFViewer\PDFview.pas=</Transaction>
+    <Transaction>2018/02/26 17:29:41.000.200,E:\AppEarlyDev\FMXPDFViewer\FMXPDFViewer.dproj=E:\AppEarlyDev\FMXPDFViewer\FMXPDFViewer.dproj</Transaction>
+    <Transaction>2018/02/27 11:06:57.000.090,E:\AppEarlyDev\FMXPDFViewer with Buttons\FMXPDFViewer.dproj=E:\AppEarlyDev\FMXPDFViewer with Buttons\FMXPDFViewer.dproj</Transaction>
+    <Transaction>2018/02/27 14:43:14.000.055,E:\AppEarlyDev\FMXPDFViewer with Buttons\FMXPDFViewer.dproj=E:\AppEarlyDev\FMXPDFViewer with Buttons\FMXPDFViewer.dproj</Transaction>
+    <Transaction>2018/03/28 09:33:40.000.254,E:\AppEarlyDev\FMXPDFViewer with Buttons\FMXPDFViewer.dproj=E:\AppEarlyDev\FMXPDFViewer with Buttons\FMXPDFViewer.dproj</Transaction>
+    <Transaction>2018/03/28 09:52:40.000.370,E:\AppEarlyDev\FMXPDFViewer with Buttons\FMXPDFViewer.dproj=E:\AppEarlyDev\FMXPDFViewer with Buttons\FMXPDFViewer.dproj</Transaction>
+    <Transaction>2018/03/28 10:25:29.000.854,E:\AppEarlyDev\FMXPDFViewer with Buttons\FMXPDFViewer.dproj=E:\AppEarlyDev\FMXPDFViewer with Buttons\FMXPDFViewer.dproj</Transaction>
+    <Transaction>2018/03/28 10:59:52.000.773,=E:\AppEarlyDev\FMXPDFViewer with Buttons\delphi-unicode-migration.pdf</Transaction>
+    <Transaction>2018/03/29 09:42:32.000.333,E:\AppEarlyDev\FMXPDFViewer with Buttons\FMXPDFViewer.dproj=E:\AppEarlyDev\FMXPDFViewer with Buttons\FMXPDFViewer.dproj</Transaction>
+    <Transaction>2018/03/31 16:28:09.000.933,E:\AppEarlyDev\FMXPDFViewer with Buttons\FMXPDFViewer.dproj=E:\AppEarlyDev\FMXPDFViewer with Buttons\FMXPDFViewer.dproj</Transaction>
+    <Transaction>2018/04/29 16:14:49.000.834,E:\AppEarlyDev\FMXPDFViewer with Buttons\FMXPDFViewer.dproj=E:\AppEarlyDev\FMXPDFViewer with Buttons\FMXPDFViewer.dproj</Transaction>
+    <Transaction>2018/04/29 16:40:22.000.264,E:\AppEarlyDev\FMXPDFViewer with Buttons\FMXPDFViewer.dproj=E:\AppEarlyDev\FMXPDFViewer with Buttons\FMXPDFViewer.dproj</Transaction>
+    <Transaction>2018/04/29 16:44:46.000.091,E:\AppEarlyDev\FMXPDFViewer with Buttons\FMXPDFViewer.dproj=E:\AppEarlyDev\FMXPDFViewer with Buttons\FMXPDFViewer.dproj</Transaction>
+    <Transaction>2018/04/29 17:43:20.000.411,E:\AppEarlyDev\FMXPDFViewer with Buttons\FMXPDFViewer.dproj=E:\AppEarlyDev\FMXPDFViewer with Buttons\FMXPDFViewer.dproj</Transaction>
+    <Transaction>2018/05/23 18:24:13.000.148,=E:\AppEarlyDev\FMXPDFViewer with Buttons\pdf.js\text_layer_builder.css</Transaction>
+    <Transaction>2018/05/23 18:24:44.000.781,=E:\AppEarlyDev\FMXPDFViewer with Buttons\pdf.js\text_layer_builder.js</Transaction>
+    <Transaction>2018/05/23 18:33:13.000.665,E:\AppEarlyDev\FMXPDFViewer with Buttons\delphi-unicode-migration.pdf=</Transaction>
+    <Transaction>2018/05/24 10:04:42.000.820,E:\AppEarlyDev\FMXPDFViewer with Buttons\FMXPDFViewer.dproj=E:\AppEarlyDev\FMXPDFViewer with Buttons\FMXPDFViewer.dproj</Transaction>
+    <Transaction>2018/05/24 10:16:33.000.493,E:\AppEarlyDev\FMXPDFViewer with Buttons\pdf.js\text_layer_builder.css=</Transaction>
+    <Transaction>2018/05/24 10:16:38.000.988,E:\AppEarlyDev\FMXPDFViewer with Buttons\pdf.js\text_layer_builder.js=</Transaction>
+    <Transaction>2018/05/24 10:18:06.000.814,E:\AppEarlyDev\FMXPDFViewer with Buttons\FMXPDFViewer.dproj=E:\AppEarlyDev\FMXPDFViewer with Buttons\FMXPDFViewer.dproj</Transaction>
+    <Transaction>2018/05/24 10:23:29.000.085,E:\AppEarlyDev\FMXPDFViewer with Buttons\FMXPDFViewer.dproj=E:\AppEarlyDev\FMXPDFViewer with Buttons\FMXPDFViewer.dproj</Transaction>
+    <Transaction>2018/05/24 10:43:00.000.890,E:\AppEarlyDev\FMXPDFViewer with Buttons\FMXPDFViewer.dproj=E:\AppEarlyDev\FMXPDFViewer with Buttons\FMXPDFViewerbtns.dproj</Transaction>
+    <Transaction>2018/05/24 11:26:54.000.982,E:\AppEarlyDev\FMXPDFViewer with Buttons\FMXPDFViewerbtns.dproj=E:\AppEarlyDev\FMXPDFViewer with Buttons\FMXPDFViewerbtns.dproj</Transaction>
+    <Transaction>2018/05/24 11:43:37.000.193,E:\AppEarlyDev\FMXPDFViewer with Buttons\FMXPDFViewerbtns.dproj=E:\AppEarlyDev\FMXPDFViewer with Buttons\FMXPDFViewerbtns.dproj</Transaction>
+    <Transaction>2018/05/24 11:44:34.000.999,E:\AppEarlyDev\FMXPDFViewer with Buttons\FMXPDFViewerbtns.dproj=E:\AppEarlyDev\FMXPDFViewer with Buttons\FMXPDFViewerbtns.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android=""/>
+	</ActiveMobileDevice>
+</BorlandProject>

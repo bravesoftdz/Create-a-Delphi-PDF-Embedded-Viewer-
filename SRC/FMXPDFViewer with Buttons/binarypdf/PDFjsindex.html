@@ -1,0 +1,72 @@
+  <html>
+ <head>
+ <style>
+  html{
+   background-color:#454545;
+   color:#ffffff;
+   }
+</style>
+<meta charset="UTF-8">
+ <title>Bayseanblog</title>
+  <script src="pdf.js"></script>
+  <link type="text/css" href="text_layer_builder.css" rel="stylesheet">
+<script type="text/javascript" src="text_layer_builder.js"></script>
+
+</head>
+<body>
+<div>
+ <span> Page no: </span><span id="page_num" ></span><span> / </span>
+<span> Page: </span><span id ="page_count"></span>
+ </div>
+  <canvas id="the-canvas" style="border:1px  solid black"></canvas>
+ <script>
+  var num = 1;
+  var totalpages ;
+   var pageNum ;
+
+     function NextPage(Convertedfile){
+     pageNum = document.getElementById("page_num").textContent;
+     totalpages = document.getElementById("page_count").textContent;
+     pageNum++;
+     if (pageNum > totalpages){
+      return}else{
+     externalPDF(Convertedfile,pageNum);
+     }
+        }
+
+      function PriorPage(Convertedfile){
+     if (document.getElementById("page_num").textContent <= 1) {
+    return;
+  }
+  pageNum = document.getElementById("page_num").textContent;
+  pageNum--;
+  externalPDF(Convertedfile,pageNum);
+   }
+
+   function externalPDF(Convertedfile,num){
+ var pdfbinary = Convertedfile;
+ var pdfData = atob(pdfbinary);
+ PDFJS.workerSrc = "pdf.worker.js";
+ PDFJS.getDocument({data: pdfData}).then(function getPdfDelphiBin(pdf) {
+ pdf.getPage(num).then(function getPageDelphiBin(page) {
+  document.getElementById("page_num").textContent = num;
+  document.getElementById("page_count").textContent = pdf.numPages;
+       var scale = 1.5;
+       var viewport = page.getViewport(scale);
+          // Prepare canvas using PDF page dimensions.
+        var canvas = document.getElementById("the-canvas");
+         var context = canvas.getContext("2d");
+         canvas.height = viewport.height;
+         canvas.width = viewport.width;
+          // Render PDF page into canvas context.
+         var renderContext = {
+          canvasContext: context,
+           viewport: viewport
+        };
+        page.render(renderContext);
+    });
+      });
+     };
+     </script>
+    </body>
+</html>
